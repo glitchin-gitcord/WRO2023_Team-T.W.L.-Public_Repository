@@ -29,7 +29,7 @@ _Anyways, the robot car possesses the following main elements:_
 
   
 
-   -   _Motors: The robot has four direct current (DC) motors that allow it to move in different directions. The motors are connected to an L298N motor controller that regulates the speed and direction of rotation of each motor. In addition, the robot has two servomotors that allow it to rotate the ultrasonic plate and the camera._  
+   -   _Motors: The robot has two direct current (DC) motors that allow it to move in different directions. The motors are connected to an L298N motor controller that regulates the speed and direction of rotation of each motor. In addition, the robot has two servomotors that allow it to rotate the ultrasonic plate and the camera._  
 
 
 
