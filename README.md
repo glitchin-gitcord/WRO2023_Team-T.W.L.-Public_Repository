@@ -44,7 +44,7 @@ _Anyways, the robot car possesses the following main elements:_
   
 
  
-   -   _Ultrasonic board: The robot has an HC-SR04 ultrasonic board that works as a sonar. The “Head” moves, emiting sound waves and measuring the time they take to bounce off nearby objects. In this way, the robot can measure the distance to obstacles and avoid them. The ultrasonic board is mounted on a servomotor that allows it to rotate and explore the environment._  
+   -   _Ultrasonic board: The robot has an HC-SR04 ultrasonic board that works as a sonar. The “Head” moves, emiting unaudible sound waves and measuring the time they take to bounce off nearby objects. In this way, the robot can measure the distance to obstacles and avoid them. The ultrasonic board is mounted on a servomotor that allows it to rotate and explore the environment._  
   
 
   
